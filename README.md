@@ -9,6 +9,6 @@ In this video Brad uses 'Atom' as his IDE, we will be using VS Code.
 This repo has the starter folders and files for CSS, Images, and index.html
 
 Branch: part3-body
-1. in the index.html <body> section we add a container:
+This branch adds the showcase and newsletter sections to the home page <body> 
 
-<div class="container">
+
