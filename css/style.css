@@ -119,9 +119,14 @@ header a:hover{
     float:right;
     margin-top:15px;
   }
-  
+  /*  CSS version 3 is the current version with many improvements
+  check out the wiki at:
+  https://en.wikipedia.org/wiki/CSS
+  */
   #newsletter input[type="email"]{
     padding:4px;
     height:25px;
     width:250px;
   }
+
+  
